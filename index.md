@@ -31,5 +31,5 @@ int main(){
 
 [1]:https://markdown.com.cn/
 
-![这是图片](https://github.com/h-dxgfx/ht1123.github.io/tree/main/1752824939829.png  "头像")  
+![这是图片](/1752824939829.png  "头像")  
 
